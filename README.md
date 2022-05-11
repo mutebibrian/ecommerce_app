@@ -1,4 +1,4 @@
-# ecommerce_app
+# E-Commerce App Products Listing Activity UI Design in Android – Kotlin
 ecommerce app using recycler view
 E-Commerce App Products Listing Activity UI Design in Android – Kotlin
 In this article, we will learn how to show E-Commerce App Products Listing Activity UI Design in Android Studio using Kotlin. We have an enhanced ListView in Android called RecyclerView.
